@@ -1,0 +1,30 @@
+{
+    "name": "fileiojs-command",
+    "version": "42.0.0",
+    "description": "Builld cli tools for your own most powerfull file manager",
+    "author": "Nicolas François <nicolas.francois@outlook.com>",
+    "license": "Beerware",
+    "main": "lib/fileiojs-command_core.js",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/202soft/fileiojs-command"
+    },
+    "keywords": [
+        "javascript",
+        "io",
+        "file",
+        "lol"
+    ],
+    "bugs": {
+        "url": "https://github.com/202soft/fileiojs-command/issues"
+    },
+    "homepage": "https://github.com/202soft/fileiojs-command",
+        "engines": {
+        "node": ">= 4.4.1"
+    },
+    "dependencies": {
+        "fileiojs": "~42.0.0",
+        "colors": "~1.1.2",
+        "commander": "~2.9.0"
+    }
+}
